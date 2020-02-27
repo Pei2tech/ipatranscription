@@ -19,7 +19,7 @@ python GUI_IPA.py
 
 ## Authors
 
-* **Pei-Tai ** - *Initial work* - [PurpleBooth](https://github.com/peitai2tech)
+* **Pei-Tai ** - 
 
 
 ## License
