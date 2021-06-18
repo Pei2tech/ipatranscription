@@ -19,7 +19,7 @@ python GUI_IPA.py
 
 ## Authors
 
-* **Pei-Tai ** - 
+Pei2tech 
 
 
 ## License
