@@ -1,6 +1,8 @@
 # IPA transcription Training 
 
-A program to transcript the abnormal voice using IPA  
+A program to transcript the abnormal voice using IPA.
+
+It is sub-project of [IPATRANS](https://demo.cmssds.org "IPATRANS").  IPATRANS is a teaching platform for Transcription of Disordered Speech Sounds.
 
 ## Getting Started
 
